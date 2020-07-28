@@ -1,3 +1,5 @@
+<h1 align="center"><img title="The Long Night Is Coming" src="https://raw.githubusercontent.com/aejontargaryen/Dragonglasswallet/master/src/images/splash.png" > <img/></h1>
+
 1. After building dragonglass, Copy the dragonglass folder and paste into the Dragonglasswallet folder
 
 2. Build wallet
